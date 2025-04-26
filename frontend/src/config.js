@@ -1,5 +1,5 @@
-export const CONTRACT_ADDRESS = "0x2834C2F100E0dc7f608580e15B1c0FE889B9839";
-export const ADMIN_ADDRESS = "0xf4f4f5d2a710ddc920dc6d2df48c78c5cd28dcf3";
+export const CONTRACT_ADDRESS = "0x0E9C5f5B0f5c70e178B9F14eF3a716988B86c137";
+export const ADMIN_ADDRESS = "0x826F389be2A72c80A8406fB967269c584e00b0Fa";
 
 export const CHAIN_ID = "0xAA36A7"; // Sepolia testnet
 export const NETWORK_NAME = "Sepolia";
